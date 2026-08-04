@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adibmehedi.github.io/docs-s22qhj/sitemap.xml
